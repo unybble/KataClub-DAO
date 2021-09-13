@@ -1,0 +1,13 @@
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/obj/Debug/netcoreapp3.1/KataClub-DAO.csproj.AssemblyReference.cache
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/obj/Debug/netcoreapp3.1/KataClub-DAO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/obj/Debug/netcoreapp3.1/KataClub-DAO.AssemblyInfoInputs.cache
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/obj/Debug/netcoreapp3.1/KataClub-DAO.AssemblyInfo.cs
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/obj/Debug/netcoreapp3.1/KataClub-DAO.csproj.CoreCompileInputs.cache
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/bin/Debug/netcoreapp3.1/KataClub-DAO.deps.json
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/bin/Debug/netcoreapp3.1/KataClub-DAO.runtimeconfig.json
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/bin/Debug/netcoreapp3.1/KataClub-DAO.runtimeconfig.dev.json
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/bin/Debug/netcoreapp3.1/KataClub-DAO.dll
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/bin/Debug/netcoreapp3.1/KataClub-DAO.pdb
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/obj/Debug/netcoreapp3.1/KataClub-DAO.dll
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/obj/Debug/netcoreapp3.1/KataClub-DAO.pdb
+/Users/Jen/Projects/KataClub-DAO/KataClub-DAO/obj/Debug/netcoreapp3.1/KataClub-DAO.genruntimeconfig.cache
