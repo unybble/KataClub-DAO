@@ -1,21 +1,25 @@
 ﻿<Properties StartupConfiguration="{27DCF5C0-E186-4A68-B0F4-F4103C571EB3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Book.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ISBNDB_API.cs">
     <Files>
       <File FileName="Program.cs" Line="21" Column="34" />
-      <File FileName="Book.cs" Line="15" Column="6" />
+      <File FileName="Book.cs" Line="2" Column="23" />
       <File FileName="BookDao.cs" Line="10" Column="27" />
-      <File FileName="IBooks.cs" Line="19" Column="52" />
+      <File FileName="IBooks.cs" Line="41" Column="6" />
       <File FileName="../KataClub-DAO-naive/Program.cs" Line="1" Column="1" />
-      <File FileName="../KataClub-DAO-naive/Book.cs" Line="1" Column="1" />
+      <File FileName="../KataClub-DAO-naive/Book.cs" Line="26" Column="9" />
+      <File FileName="KataClub-DAO-Test/UnitTest1.cs" Line="17" Column="10" />
+      <File FileName="KataClub-DAO-Test/DAONaiveTest.cs" Line="18" Column="55" />
+      <File FileName="ISBNDB_API.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="KataClub-DAO" expanded="True">
-            <Node name="KataClub-DAO" expanded="True" />
-            <Node name="KataClub-DAO-naive" expanded="True">
-              <Node name="Book.cs" selected="True" />
+            <Node name="KataClub-DAO" expanded="True">
+              <Node name="ISBNDB_API.cs" selected="True" />
             </Node>
+            <Node name="KataClub-DAO-naive" expanded="True" />
+            <Node name="KataClub-DAO-Test" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -24,6 +28,7 @@
   <MonoDevelop.Ide.ItemProperties.KataClub-DAO-naive FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.KataClub-DAO PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KataClub-DAO-Test FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

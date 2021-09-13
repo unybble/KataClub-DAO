@@ -4,22 +4,19 @@ using System.Linq;
 
 namespace KataClub_DAO
 {
-    public class BooksImplNew : IBooks
+    public class BooksImpl : IBooks
     {
 
     //list is working as a database
     private List<Book> Books { get; set; }
 
-    public BooksImplNew()
+    public BooksImpl()
     {
             Books = new List<Book>
             {
-                new Book(1, "When We Were Wallflowers"),
-                new Book(2, "Bard's Crypt"),
-                new Book(3, "Hunting Season"),
-                new Book(4, "Clue of the Cold Cottage"),
-                new Book(5, "Children of Nebula"),
-                new Book(6, "Eye of Iron")
+                new Book(1, "Alice In Wonderland"),
+                new Book(2, "Cinderella"),
+                new Book(3, "The Three Little Bears")
             };
         }
 
