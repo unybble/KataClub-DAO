@@ -10,5 +10,6 @@ namespace KataClub_DAO
         Book GetBookByIsbn(int isbn);
         void SaveBook(Book book);
         void DeleteBook(Book book);
+
     }
 }
